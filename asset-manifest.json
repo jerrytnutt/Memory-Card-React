@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Memory-Card-React/static/css/main.76a1da0b.chunk.css",
+    "main.js": "/Memory-Card-React/static/js/main.3875e659.chunk.js",
+    "main.js.map": "/Memory-Card-React/static/js/main.3875e659.chunk.js.map",
+    "runtime-main.js": "/Memory-Card-React/static/js/runtime-main.3f0ff302.js",
+    "runtime-main.js.map": "/Memory-Card-React/static/js/runtime-main.3f0ff302.js.map",
+    "static/js/2.c7f0759d.chunk.js": "/Memory-Card-React/static/js/2.c7f0759d.chunk.js",
+    "static/js/2.c7f0759d.chunk.js.map": "/Memory-Card-React/static/js/2.c7f0759d.chunk.js.map",
+    "static/js/3.3265129a.chunk.js": "/Memory-Card-React/static/js/3.3265129a.chunk.js",
+    "static/js/3.3265129a.chunk.js.map": "/Memory-Card-React/static/js/3.3265129a.chunk.js.map",
+    "index.html": "/Memory-Card-React/index.html",
+    "static/css/main.76a1da0b.chunk.css.map": "/Memory-Card-React/static/css/main.76a1da0b.chunk.css.map",
+    "static/js/2.c7f0759d.chunk.js.LICENSE.txt": "/Memory-Card-React/static/js/2.c7f0759d.chunk.js.LICENSE.txt",
+    "static/media/backShip.61c86299.jpg": "/Memory-Card-React/static/media/backShip.61c86299.jpg",
+    "static/media/earth.916bb8b6.jpg": "/Memory-Card-React/static/media/earth.916bb8b6.jpg",
+    "static/media/earthOverView.d0aed16e.jpg": "/Memory-Card-React/static/media/earthOverView.d0aed16e.jpg",
+    "static/media/farView.12918835.jpg": "/Memory-Card-React/static/media/farView.12918835.jpg",
+    "static/media/frontReflection.f77ac3d2.jpg": "/Memory-Card-React/static/media/frontReflection.f77ac3d2.jpg",
+    "static/media/App.css": "/Memory-Card-React/static/media/github.69ffd9cd.png",
+    "static/media/greatView.e944d7a1.jpg": "/Memory-Card-React/static/media/greatView.e944d7a1.jpg",
+    "static/media/liftOff.11186c0d.jpg": "/Memory-Card-React/static/media/liftOff.11186c0d.jpg",
+    "static/media/moonCraft.51b7c772.jpg": "/Memory-Card-React/static/media/moonCraft.51b7c772.jpg",
+    "static/media/moonEarthView.07715d34.jpg": "/Memory-Card-React/static/media/moonEarthView.07715d34.jpg",
+    "static/media/moonFlag.b68cf02a.jpg": "/Memory-Card-React/static/media/moonFlag.b68cf02a.jpg",
+    "static/media/moonRover.f4a0b8af.jpg": "/Memory-Card-React/static/media/moonRover.f4a0b8af.jpg",
+    "static/media/space1.976f015d.jpg": "/Memory-Card-React/static/media/space1.976f015d.jpg",
+    "static/media/space2.a5615759.jpg": "/Memory-Card-React/static/media/space2.a5615759.jpg",
+    "static/media/space3.b3ab452b.jpg": "/Memory-Card-React/static/media/space3.b3ab452b.jpg",
+    "static/media/index.css": "/Memory-Card-React/static/media/spaceBackground.578d603b.jpg",
+    "static/media/spaceX.adb9f7ce.jpg": "/Memory-Card-React/static/media/spaceX.adb9f7ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0ff302.js",
+    "static/js/2.c7f0759d.chunk.js",
+    "static/css/main.76a1da0b.chunk.css",
+    "static/js/main.3875e659.chunk.js"
+  ]
+}
